@@ -20,4 +20,9 @@ public class PartieNavire {
 	public void setFonctionnelFalse() {
 		this.estFonctionnel = false;
 	}
+	
+	//Pour tester
+	public static void main(String[] args) {
+		System.out.println("hi");
+	}
 }
